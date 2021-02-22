@@ -1,5 +1,3 @@
-![alt text](https://github.com/gghigi/gghigi/blob/main/GitHub%20Header.png "Banner")
-
 # Gabriel G :call_me_hand:
 
 ## About Me
