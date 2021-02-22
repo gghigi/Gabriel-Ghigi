@@ -1,3 +1,5 @@
+![alt text](https:link-image "Banner")
+
 # Gabriel Ghigi :call_me_hand:
 
 ## About Me
