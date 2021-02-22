@@ -1,6 +1,6 @@
 ![alt text](https://github.com/gghigi/gghigi/blob/main/GitHub%20Header.png "Banner")
 
-# Gabriel Ghigi :call_me_hand:
+# Gabriel G :call_me_hand:
 
 ## About Me
 
