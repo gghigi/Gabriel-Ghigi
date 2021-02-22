@@ -31,6 +31,14 @@ I'm a **junior web developer** based in Sydney, Australia :australia: with work 
 
 
 
+## Socials
+
+* :one: [LinkedIn](https://www.linkedin.com/in/gghigi/)
+* :two: [Dribbble](dribbble.com/gabrielghigi)
+* :three: [Behance](https://www.behance.net/Gabriel_Ghigi)
+
+
+
 ## Some Of My Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gghigi)
 
