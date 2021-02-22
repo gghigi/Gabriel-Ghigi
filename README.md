@@ -1,4 +1,4 @@
-![alt text](https:link-image "Banner")
+![alt text](https://github.com/gghigi/gghigi/blob/main/GitHub%20Header.png "Banner")
 
 # Gabriel Ghigi :call_me_hand:
 
