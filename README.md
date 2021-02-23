@@ -1,4 +1,4 @@
-# Gabriel G :call_me_hand:
+<h1 align="center">Gabriel G :call_me_hand:<h1>
 
 ## About Me
 
